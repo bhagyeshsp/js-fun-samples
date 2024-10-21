@@ -1,0 +1,1 @@
+A collection of fun JS tiny code elements that I have come across while learning JS.
