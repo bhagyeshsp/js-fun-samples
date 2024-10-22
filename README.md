@@ -7,3 +7,5 @@ Files and their related concepts:
 - simple-ternary: [Conditionals: ternary operator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#ternary_operator_example)
 - calendar-example: [Exercise: using conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#active_learning_a_simple_calendar)
 - more-color-choices: [Exercise: using switch statement](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#active_learning_more_color_choices)
+- conditional-2-exercise: [Conditional-2: Nested else if, OR AND operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Conditionals#conditionals_2)
+- conditional-3-exercise: [Conditional-3: Ternary usage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Conditionals#conditionals_3)
